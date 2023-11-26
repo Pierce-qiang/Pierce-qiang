@@ -1,7 +1,7 @@
 - Hi, I’m @Pierce-qiang
 - I’m interested in Computer Graphics (Rendering and Simulation)
 - If you have any questions, welcome to discuss with me
-- I’m currently learning in DUT as a Mechanical Engineering undergraguate
+- I’m currently learning in DUT as a Mechanical Engineering post-graduate research on digital twins
 - How to reach me: pierce_qiang@qq.com   or pierce_qiang@163.com
 <!---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pierce-qiang)](https://github.com/anuraghazra/github-readme-stats)
